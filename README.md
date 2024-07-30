@@ -43,6 +43,8 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Nvim](https://img.shields.io/badge/Nvim-333333?style=flat&logo=neovim&logoColor=57A143)
+  
 
 <p align="center">
    <a href="https://github.com/CodingGaby" target="blank">
