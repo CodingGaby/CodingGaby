@@ -9,7 +9,7 @@
   </a>
   <span style="width: 8px;"> </span>
   <a href="https://arc.dev/@georgegabeoso" target="blank">
-    <img align="center" src="https://media.licdn.com/dms/image/C560BAQEfpxgqA9k46A/company-logo_200_200/0/1652413115835/arcdotdev_logo?e=2147483647&v=beta&t=n5hxoSymghNjm9vwh_ZcRqmCLap3NeadL9p5V_onAQY" alt="midudev" height="33px" width="33px" />
+    <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZE3gQEUscLVIkYp6BcJ7XFn8nbxWV9Hm5w&s" alt="arcdotdev" height="50px" width="50px" />
   </a>
 </p>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
