@@ -47,8 +47,8 @@
   
 
 <p align="center">
-   <a href="https://github.com/CodingGaby" target="blank">
-      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingGaby&theme=onedark&layout=compact" alt="Linkedin"/>
+   <a href="https://github.com/CodingGab" target="blank">
+      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingGab&theme=onedark&layout=compact" alt="Linkedin"/>
    </a>
 </p>
 <!--
